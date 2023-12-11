@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           TEST FRICKIN' TEST CHANGE!!!!
+          REMOVED ENV FILE totally
         </p>
         <a
           className="App-link"
